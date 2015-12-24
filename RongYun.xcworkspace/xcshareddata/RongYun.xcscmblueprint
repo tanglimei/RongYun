@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0b71ab47-6fe5-48c6-91b0-62ff9ffd56a4" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0b71ab47-6fe5-48c6-91b0-62ff9ffd56a4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D4919F23-70FB-4639-BE3E-B11DECF7F05D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0b71ab47-6fe5-48c6-91b0-62ff9ffd56a4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RongYun",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RongYun.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/fly",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0b71ab47-6fe5-48c6-91b0-62ff9ffd56a4"
+    }
+  ]
+}
